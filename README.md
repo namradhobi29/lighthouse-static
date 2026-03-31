@@ -1,8 +1,3 @@
-Here’s a **professional, advanced-level README.md** tailored specifically for your Lighthouse project 👇
-(You can directly copy-paste this into your GitHub repo)
-
----
-
 # 🌙 Lighthouse Experience — Cinematic Web Project
 
 ## 🚀 Overview
@@ -170,7 +165,9 @@ cd lighthouse-project
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed link here — GitHub Pages recommended)
+```bash
+https://namradhobi29.github.io/lighthouse-static/
+```
 
 ---
 
@@ -203,20 +200,3 @@ This project is licensed under the **MIT License** — feel free to use and modi
 > “Not all who wander are lost — some are guided by light.”
 
 ---
-
-## ⭐ Support
-
-If you like this project:
-
-* ⭐ Star the repo
-* 🍴 Fork it
-* 📢 Share it
-
----
-
-If you want, I can also:
-✅ Create a **premium GitHub profile README (cybersecurity theme)**
-✅ Add **badges (tech stack, stars, visitors)**
-✅ Help you **deploy on GitHub Pages with custom domain**
-
-Just tell me 👍
