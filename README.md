@@ -184,7 +184,9 @@ https://namradhobi29.github.io/lighthouse-static/
 ## 👩‍💻 Author
 
 **Namra Dhobi**
+
 🎓 Cyber Security student
+
 💻 Frontend Developer | Networking | Python
 
 ---
