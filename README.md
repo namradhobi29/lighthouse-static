@@ -148,7 +148,7 @@ CSS-only animation using:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/lighthouse-project.git
+git clone https://github.com/namradhobi29/lighthouse-static.git
 ```
 
 2. Open the project:
@@ -184,7 +184,7 @@ https://namradhobi29.github.io/lighthouse-static/
 ## 👩‍💻 Author
 
 **Namra Dhobi**
-🎓 Aspiring Cyber Security Analyst
+🎓 Cyber Security student
 💻 Frontend Developer | Networking | Python
 
 ---
